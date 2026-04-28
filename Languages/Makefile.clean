@@ -1,0 +1,3 @@
+clean::
+> @rm -f *.nav *.out *.snm *.log *.aux
+> @rm -f *.dvi0 *.dvi *.ps *.bbl *.blg
